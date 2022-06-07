@@ -1,4 +1,3 @@
-// Day 7 - 
 let div = '';
 const count = 200;
 
